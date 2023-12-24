@@ -1,16 +1,14 @@
-# calculadora-js
+<h1 align="center">Calculadora-js</h1>
 
-## :dart: Objetivo do projeto:
+## Descrição e objetivo do projeto
 
-Criação de uma calculadora, projeto tradicional no treinamento inicial da linguagem JavaScript.
+Criação de uma calculadora utilizando JavaScript.
 
-Criando a função responsável por receber os valores e as ações, além da lógica das operações matemáticas e da manipulação do elemento que representa o resultado das operações.
+Criando a lógica responsável por receber os valores e as ações, além das operações matemáticas e da manipulação do elemento que representa o resultado das operações.
 
-## :receipt: Descrição do projeto:
+Projeto de visual simples mas totalmente funcional, com todas as características e operações fundamentais de uma calculadora.
 
-Projeto de visual simples mas totalmente funcional, com todas as características e operações padrão de uma calculadora.
-
-## :heavy_check_mark: Técnologias utilizadas:
+## :heavy_check_mark: Tecnologias utilizadas:
 
 - `HTML`
 - `CSS`
