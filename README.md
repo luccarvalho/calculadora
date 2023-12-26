@@ -8,7 +8,7 @@ Criando a lógica responsável por receber os valores e as ações, além das op
 
 Projeto de visual simples mas totalmente funcional, com todas as características e operações fundamentais de uma calculadora.
 
-## :heavy_check_mark: Tecnologias utilizadas:
+## :heavy_check_mark: Tecnologias utilizadas
 
 - `HTML`
 - `CSS`
